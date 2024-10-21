@@ -16,22 +16,22 @@ const projects = [
     link: 'https://trackittitans.vercel.app/',
   },
   {
+    title: 'School Management System',
+    description: 'A complete system for managing students, teachers, and classes efficiently.',
+    tech: ['React', 'Firebase', 'CSS Modules'],
+    link: 'https://school-management-system-three-alpha.vercel.app/',
+  },
+  {
     title: 'Github Finder',
     description: 'A tool to search GitHub users and repositories using the GitHub API.',
     tech: ['React', 'GitHub API', 'TailwindCSS'],
-    link: '#',
+    link: 'https://github-user-finder-livid.vercel.app/',
   },
   {
     title: 'Arewa Real Estate',
     description: 'A platform for listing and renting properties, featuring intuitive UI and blockchain integration.',
     tech: ['React', 'TailwindCSS', 'Solidity', 'Firebase'],
-    link: '#',
-  },
-  {
-    title: 'School Management System',
-    description: 'A complete system for managing students, teachers, and classes efficiently.',
-    tech: ['React', 'Firebase', 'CSS Modules'],
-    link: 'https://school-management-system-three-alpha.vercel.app/',
+    link: 'https://arewa-homes-real-estate.vercel.app/',
   },
   {
     title: 'My First Portfolio',
