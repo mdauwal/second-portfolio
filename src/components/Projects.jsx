@@ -1,6 +1,6 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-import './Projects.css'; // Importing the custom CSS file
+import './Projects.css';
 
 const projects = [
   {
@@ -16,10 +16,10 @@ const projects = [
     link: 'https://trackittitans.vercel.app/',
   },
   {
-    title: 'School Management System',
-    description: 'A complete system for managing students, teachers, and classes efficiently.',
-    tech: ['React', 'Firebase', 'CSS Modules'],
-    link: 'https://school-management-system-three-alpha.vercel.app/',
+    title: 'Refferal Portal',
+    description: 'An end-to-end platform for managing and tracking user referrals seamlessly.',
+    tech: ['HTML5', 'TailwindCSS', 'JavaScript'],
+    link: 'https://referral-app-portal.netlify.app/',
   },
   {
     title: 'Github Finder',
@@ -30,7 +30,7 @@ const projects = [
   {
     title: 'Arewa Real Estate',
     description: 'A platform for listing and renting properties, featuring intuitive UI and blockchain integration.',
-    tech: ['React', 'TailwindCSS', 'Solidity', 'Firebase'],
+    tech: ['React', 'TailwindCSS', 'Solidity', 'Ethereum', 'Firebase'],
     link: 'https://arewa-homes-real-estate.vercel.app/',
   },
   {

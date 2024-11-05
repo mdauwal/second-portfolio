@@ -5,13 +5,16 @@ import { motion } from 'framer-motion';
 const skills = [
   { name: 'HTML5', level: 'Expert', icon: '🔥' },
   { name: 'CSS3', level: 'Advanced', icon: '🎨' },
-  { name: 'JavaScript', level: 'Advanced', icon: '🚀' },
   { name: 'React.js', level: 'Proficient', icon: '⚛️' },
+  { name: 'JavaScript', level: 'Advanced', icon: '🚀' },
+  { name: 'TypeScript', level: 'Intermediate', icon: '🔧' },
+  { name: 'sCrypt', level: 'Beginner', icon: '🔐' },
   { name: 'Tailwind CSS', level: 'Proficient', icon: '💨' },
   { name: 'Firebase', level: 'Intermediate', icon: '🔥' },
   { name: 'Redux', level: 'Intermediate', icon: '🔄' },
   { name: 'Git/GitHub', level: 'Advanced', icon: '🐙' },
   { name: 'API Integration', level: 'Proficient', icon: '🔌' },
+  
 ];
 
 const Skills = () => {

@@ -96,7 +96,7 @@ const Header = () => {
           animate={{ y: 0, opacity: 1 }}
           transition={{ duration: 0.8, delay: 0.3, ease: 'easeOut' }}
         >
-          Frontend Developer | React.js Enthusiast
+          Software Engineer | Web3 Enthusiast
         </motion.p>
 
         <motion.div

@@ -35,9 +35,9 @@ const About = () => {
           <h2 className="text-5xl font-bold mb-6">About Me</h2>
           <p className="text-xl text-gray-400 mb-6 leading-relaxed">
             Hello! I'm <span className="text-red-500 font-semibold">Muhammad Auwal</span>, 
-            a passionate frontend developer with a love for building beautiful, 
+            a passionate software developer with a love for building beautiful, 
             responsive, and user-friendly web applications. 
-            I specialize in React.js and enjoy turning complex ideas into elegant solutions.
+            I specialize in React.js, TypeScript, TailwindCSS and enjoy turning complex ideas into elegant solutions.
           </p>
           <p className="text-lg text-gray-400 mb-8 leading-relaxed">
             With a background in design and development, I focus on crafting sleek UIs 
