@@ -63,7 +63,7 @@ const Header = () => {
             <FaGithub />
           </a>
           <a
-            href="https://www.linkedin.com/in/muhammd-analyst"
+            href="https://www.linkedin.com/in/mdauwal"
             target="_blank"
             rel="noopener noreferrer"
             className="text-xl md:text-2xl text-gray-300 hover:text-white transition duration-300"
@@ -96,7 +96,7 @@ const Header = () => {
           animate={{ y: 0, opacity: 1 }}
           transition={{ duration: 0.8, delay: 0.3, ease: 'easeOut' }}
         >
-          Software Engineer | Web3 Enthusiast
+          Software Engineer | Nest.js Enthusiast
         </motion.p>
 
         <motion.div
@@ -112,7 +112,7 @@ const Header = () => {
             View My Projects
           </a>
           <a
-            href="https://drive.google.com/file/d/1dKwjojgIkM8aRa8zmHt6a2ogovLMsDam/view?usp=sharing"
+            href="https://drive.google.com/file/d/1CeM9l-bLL2ctzkt-M0idD6w5_xNtJorF/view?usp=sharing"
             className="bg-red-500 text-white font-semibold rounded-lg hover:bg-red-600 px-4 py-2 md:px-6 md:py-3 transition"
           >
             My Resume

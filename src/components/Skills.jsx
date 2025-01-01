@@ -6,16 +6,22 @@ const skills = [
   { name: 'HTML5', level: 'Expert', icon: '🔥' },
   { name: 'CSS3', level: 'Advanced', icon: '🎨' },
   { name: 'React.js', level: 'Proficient', icon: '⚛️' },
+  { name: 'Next.js', level: 'Intermediate', icon: '⏩' },
   { name: 'JavaScript', level: 'Advanced', icon: '🚀' },
   { name: 'TypeScript', level: 'Intermediate', icon: '🔧' },
-  { name: 'sCrypt', level: 'Beginner', icon: '🔐' },
   { name: 'Tailwind CSS', level: 'Proficient', icon: '💨' },
   { name: 'Firebase', level: 'Intermediate', icon: '🔥' },
   { name: 'Redux', level: 'Intermediate', icon: '🔄' },
   { name: 'Git/GitHub', level: 'Advanced', icon: '🐙' },
   { name: 'API Integration', level: 'Proficient', icon: '🔌' },
-  
+  { name: 'Node.js', level: 'Intermediate', icon: '🌿' },
+  { name: 'Nest.js', level: 'Beginner', icon: '🛡️' },
+  { name: 'PostgreSQL', level: 'Intermediate', icon: '🐘' },
+  { name: 'MongoDB', level: 'Intermediate', icon: '🍃' },
+  { name: 'REST API Development', level: 'Intermediate', icon: '🔗' },
+  { name: 'Authentication & Authorization', level: 'Intermediate', icon: '🔒' },
 ];
+
 
 const Skills = () => {
   return (

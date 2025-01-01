@@ -10,16 +10,16 @@ const projects = [
     link: 'https://adroit-loan-app.netlify.app/',
   },
   {
-    title: 'Trackit',
+    title: 'Customer Relationship Management',
+    description: 'A CRM User Interface in replica developed using Next.js app.',
+    tech: ['React', 'Next.js', 'TailwindCSS', 'TypeScript', 'JavaScript ES6+'],
+    link: 'https://crm-ui-eyot.vercel.app/',
+  },
+  {
+    title: 'TrackIt',
     description: 'An app for monitoring vehicles carrying goods across Nigeria, built with React and Leaflet.',
     tech: ['React', 'Leaflet', 'TailwindCSS', 'Redux'],
     link: 'https://trackittitans.vercel.app/',
-  },
-  {
-    title: 'Refferal Portal',
-    description: 'An end-to-end platform for managing and tracking user referrals seamlessly.',
-    tech: ['HTML5', 'TailwindCSS', 'JavaScript'],
-    link: 'https://referral-app-portal.netlify.app/',
   },
   {
     title: 'Github Finder',
@@ -32,6 +32,12 @@ const projects = [
     description: 'A platform for listing and renting properties, featuring intuitive UI and blockchain integration.',
     tech: ['React', 'TailwindCSS', 'Solidity', 'Ethereum', 'Firebase'],
     link: 'https://arewa-homes-real-estate.vercel.app/',
+  },
+  {
+    title: 'Refferal Portal',
+    description: 'An end-to-end platform for managing and tracking user referrals seamlessly.',
+    tech: ['HTML5', 'TailwindCSS', 'JavaScript'],
+    link: 'https://referral-app-portal.netlify.app/',
   },
   {
     title: 'My First Portfolio',
